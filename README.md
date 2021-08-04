@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<pin>/?username=<hugomatheuss>&theme=<tokyonight>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<>/?username=<hugomatheuss>&theme=<tokyonight>" />
 
