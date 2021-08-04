@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<>/?username=<hugomatheuss>&theme=<tokyonight>" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugomatheuss&show_icons=true&theme=radical)
+
 
