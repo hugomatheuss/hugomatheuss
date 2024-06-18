@@ -58,8 +58,6 @@ A long time ago, I started programming with ![C](https://img.shields.io/badge/c-
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
--->
-
 ### GitHub Stats ⚡
 <div>
 <a href="https://github.com/lbguilherme">
