@@ -7,8 +7,7 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 I have a bachelor's degree in ([Unipê](https://www.unipe.edu.br/graduacao/ciencia-da-computacao/)) ] @ [ University ]
-
+🎓 I have a bachelor's degree in ([Unipê](https://www.unipe.edu.br/graduacao/ciencia-da-computacao/)) ]
 👩‍💻 I currently work as a Backend Software Developer.
 
 A long time ago, I started programming with ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
