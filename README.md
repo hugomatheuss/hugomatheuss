@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Hugo Matheus Freire
 
-### 💻 Backend-Focused Fullstack Developer
-
+### 💻 Software Developer
 I’m a passionate software developer with a strong background in backend systems, cloud infrastructure, and software architecture. Currently working professionally with PHP (Laravel/Symfony), Node.js, and SQL/NoSQL databases.
 
 I’m especially interested in high-scalability systems, Domain-Driven Design (DDD), and the practical application of AI in developer tools and agents.
