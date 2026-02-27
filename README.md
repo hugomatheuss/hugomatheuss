@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Hugo Matheus Freire
 
-### 💻 Software Developer
-I’m a passionate software developer with a strong background in backend systems, cloud infrastructure, and software architecture. Currently working professionally with PHP (Laravel/Symfony), Node.js, and SQL/NoSQL databases.
+### 🚀 Senior Software Engineer | Backend Specialist | AI Agent Architect
+I’m a software developer driven by the challenge of building high-scalability systems and robust backend architectures. With over [X] years of experience, I specialize in the PHP ecosystem (Laravel/Symfony) and Node.js, focused on delivering clean, maintainable, and secure code.
 
-I’m especially interested in high-scalability systems, Domain-Driven Design (DDD), and the practical application of AI in developer tools and agents.
+**What I'm currently obsessed with:**
+Bridging the gap between **Autonomous AI Agents** and real-world infrastructure. I build tools that allow LLMs to safely interact with servers, managing deployments and dev-ops tasks through secure, asynchronous architectures.
 
 ---
 
-### 🛠️ Main Tech Stack
+### 🛠️ Core Expertise & Ecosystem
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -23,27 +24,30 @@ I’m especially interested in high-scalability systems, Domain-Driven Design (D
 
 ---
 
-### 📚 Currently Studying
-
-- 🧠 **AI Agents & Developer Tooling** (LLMs + AutoDev/AI Copilots)
-- 🧱 **Domain-Driven Design (DDD)**
-- 🛰️ **Event-Driven Architectures**
-- 📦 **Microservices and Clean Architecture**
-- 🔐 **Security in Web APIs**
+### 🧪 Featured Lab: AI Agents & Infrastructure
+I don't just use AI to write code; I build systems for AI to **operate** code.
+* **[Secure AI-to-Host Bridge](LINK_PARA_O_REPO):** A signaling architecture that allows isolated AI agents to manage Git flows and Laravel workers via asynchronous flag systems. Solving the "Remote DevOps" challenge without SSH exposure.
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 Strategic Knowledge
 
-<div>
+* **Architecture:** Domain-Driven Design (DDD), Clean Architecture, and Event-Driven Systems.
+* **Patterns:** SOLID, Design Patterns, and Microservices Orchestration.
+* **Security:** API Hardening, Sandboxing, and Least Privilege Access.
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugomatheuss&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugomatheuss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
 
-### 📫 Contact
+### 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/hugo-matheus-freire/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-matheus-freire/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
