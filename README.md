@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hugo Matheus Freire
 
 ### 🚀 Senior Software Engineer | Backend Specialist | AI Agent Architect
-I’m a software developer driven by the challenge of building high-scalability systems and robust backend architectures. With over 6 years of experience, I specialize in the PHP ecosystem (Laravel/Symfony) and Node.js, focused on delivering clean, maintainable, and secure code.
+I’m a software developer driven by the challenge of building high-scalability systems and robust backend architectures. With over 6 years of experience, I specialize in the PHP ecosystem (Laravel/Symfony), focused on delivering clean, maintainable, and secure code.
 
 **What I'm currently obsessed with:**
 Bridging the gap between **Autonomous AI Agents** and real-world infrastructure. I build tools that allow LLMs to safely interact with servers, managing deployments and dev-ops tasks through secure, asynchronous architectures.
